@@ -16,7 +16,7 @@ public class ActivitySelection {
                 lastEndTime = activity.getEnd();
             }
         }
-
+system.out("Hello");
         return selectedActivities;
     }
 }
